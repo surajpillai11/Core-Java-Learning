@@ -22,8 +22,6 @@ class C extends A {
     
 }
 
-
-
 public class poly {
     public static void main(String[] args) {
         A obj = new A();
